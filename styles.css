@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #A6ACAF;
+    margin: 0;
+    padding: 0;
+}
+* {
+    box-sizing: border-box;
+}
+header {
+    text-align: center;
+    margin: 0;
+    padding:20px;
+    height: 100px;
+    background-color: white;
+}
+.wrapper {
+    width: 500px;
+    margin: 20px auto;
+}
+.fotos {
+    float:left;
+    width: 500px;
+    margin: 20px;
+}
+.nameTop, .nameBottom {
+    padding: 8px;
+    background-color: white;
+    width: 500px;
+    margin: 0;
+}
+.fotos img {
+    width: 100%;
+    margin: 0;
+    display:block;
+}
+    
